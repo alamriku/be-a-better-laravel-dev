@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Diving Laravel (by Mohamed Said)",
+        "link": "https://divinglaravel.com"
+    },
+    {
+        "title": "Tighten Co Blog",
+        "link": "https://tighten.co/blog"
+    },
+    {
+        "title": "Freek Van der Herten Blog",
+        "link": "https://freek.dev"
+    },
+    {
+        "title": "Matt Sttaufer Blog",
+        "link": "https://mattstauffer.com/blog"
+    },
+    {
+        "title": "Adam Wathan Blog",
+        "link": "https://adamwathan.me/archives"
+    },
+    {
+        "title": "Jason Mccreary Blog",
+        "link": "https://jasonmccreary.me/articles"
+    },
+    {
+        "title": "Brent Roose Blog",
+        "link": "https://stitcher.io"
+    },
+    {
+        "title": "Michael Dyrynda Blog",
+        "link": "https://dyrynda.com.au/blog"
+    },
+    {
+        "title": "Dries Vints Blog",
+        "link": "https://driesvints.com/blog"
+    },
+    {
+        "title": "Dayle Rees Blog",
+        "link": "https://daylerees.com"
+    },
+    {
+        "title": "Laravel News",
+        "link": "https://laravel-news.com"
+    },
+    {
+        "title": "Laravel Daily",
+        "link": "https://laraveldaily.com"
+    },
+    {
+        "title": "Larashout",
+        "link": "https://www.larashout.com"
+    }
+]
